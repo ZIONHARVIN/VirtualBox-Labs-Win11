@@ -1,0 +1,24 @@
+-Explored Windows 11 interface and customized system settings.
+
+-Reviewed system tools including Device Manager, Disk Management, and Computer Management.
+
+-Practiced using Windows Terminal to view system, network, and process information.
+
+-Created and managed standard user accounts to understand permissions.
+
+-Configured and tested Windows Firewall rules and basic networking tools.
+
+-Monitored system performance using Task Manager, Event Viewer, and Resource Monitor.
+
+-Set up VirtualBox shared folders, installed Guest Additions, and tested restore features.
+
+Tools Used:
+- Oracle VirtualBox on macOS (host machine)
+- Windows 11 (guest OS)
+- VirtualBox Guest Additions
+- Windows Terminal (Admin) / PowerShell
+- Device Manager, Disk Management, Task Manager
+- Event Viewer, Resource Monitor
+- Windows Defender Firewall
+- File Explorer + VirtualBox Shared Folders
+- System Restore & system settings tools
